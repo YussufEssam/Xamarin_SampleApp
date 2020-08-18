@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.views.Home">
+
+    <!--<Grid VerticalOptions="FillAndExpand" BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0" Orientation="Vertical" Spacing="20" HorizontalOptions="Center" VerticalOptions="Start" Margin="20 0">
+            <Image Source="vk" HorizontalOptions="Center" />
+            <Label Text="Welcome" FontSize="38" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontFamily="" FontAttributes="Bold"/>
+        </StackLayout>
+
+        <Frame Grid.Row="1" VerticalOptions="Start">
+            <Grid HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" HorizontalOptions="Center" Text="Login" FontSize="16" TextColor="Black" FontFamily="" FontAttributes="Bold" />
+                <Label Grid.Column="1" HorizontalOptions="Center" Text="Signup" FontSize="16" TextColor="Black" FontFamily="" FontAttributes="None" />
+            </Grid>
+        </Frame>
+
+        <StackLayout Grid.Row="2" BackgroundColor="Blue">
+
+        </StackLayout>
+
+        <StackLayout Grid.Row="3" BackgroundColor="Yellow">
+
+        </StackLayout>
+    </Grid>-->
+
+</ContentPage>

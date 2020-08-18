@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1y96JVTMI7vrogRO75YnTRhgLmRsO7EO6gAG8b/aEbxv/KyrXYpKHfCcVrqw78/1IpVID9ZMbu2PNjShiQVXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DES4\\Desktop\\Xamarin\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DES4\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\DES4\\.nuget\\packages\\sharpdx.direct2d1\\4.2.0\\sharpdx.direct2d1.4.2.0.nupkg.sha512",
+    "C:\\Users\\DES4\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
+    "C:\\Users\\DES4\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
