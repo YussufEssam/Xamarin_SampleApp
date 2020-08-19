@@ -518,3 +518,4 @@ C:\Users\DES4\Desktop\Xamarin\App1\App1\App1.Android\obj\Debug\90\android\assets
 C:\Users\DES4\Desktop\Xamarin\App1\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.dll
 C:\Users\DES4\Desktop\Xamarin\App1\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
 C:\Users\DES4\Desktop\Xamarin\App1\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\DES4\Desktop\Xamarin\App1\App1\App1.Android\obj\Debug\90\android\src\crc649a3f1d798689dd21\StandardEntryRenderer.java

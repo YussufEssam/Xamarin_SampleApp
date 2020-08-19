@@ -1,7 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:App1.Controls;assembly=App1"
              x:Class="App1.views.Home">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="controls:StandardEntry">
+                <Setter Property="Padding" Value="13" />
+                <Setter Property="BackgroundColor" Value="white" />
+                <Setter Property="BorderColor" Value="#cccccc" />
+                <Setter Property="BorderThickness" Value="1" />
+                <Setter Property="CornerRadius" Value="8" />
+                <Setter Property="PlaceholderColor" Value="#cccccc" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
 
     <!--<Grid VerticalOptions="FillAndExpand" BackgroundColor="White">
         <Grid.RowDefinitions>
